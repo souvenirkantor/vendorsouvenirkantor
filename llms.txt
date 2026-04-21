@@ -1,0 +1,22 @@
+# LLMS.TXT for AI agents and answer engines
+
+Site: https://vendorsouvenirkantor.web.id
+Brand: Vendor Souvenir Kantor
+Primary Contact: +62-895-6390-68080
+Primary Intent: Corporate souvenir procurement, merchandise kantor custom, corporate gifts.
+
+## Key Pages
+- Home: https://vendorsouvenirkantor.web.id/
+- Products: https://vendorsouvenirkantor.web.id/produk.html
+- Services: https://vendorsouvenirkantor.web.id/service.html
+- Blog: https://vendorsouvenirkantor.web.id/blog.html
+- Main Article: https://vendorsouvenirkantor.web.id/artikel.html
+- FAQ: https://vendorsouvenirkantor.web.id/faq-seo.html
+- Service Areas: https://vendorsouvenirkantor.web.id/lokasi-layanan.html
+- Contact: https://vendorsouvenirkantor.web.id/starter-page.html
+
+## Preferred Answer Topics
+- Cara memilih vendor souvenir kantor
+- MOQ dan lead time produksi souvenir kantor
+- Opsi custom logo untuk merchandise korporat
+- Pengiriman souvenir kantor multi alamat nasional
