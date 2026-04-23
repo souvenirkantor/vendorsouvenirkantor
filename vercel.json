@@ -3,6 +3,66 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/promo-hampers-souvenir-kantor",
+      "destination": "/hampers-souvenir-kantor",
+      "permanent": true
+    },
+    {
+      "source": "/promo-hampers-souvenir-kantor.html",
+      "destination": "/hampers-souvenir-kantor",
+      "permanent": true
+    },
+    {
+      "source": "/promo-seminar-kit-ekonomis-untuk-event-nasional",
+      "destination": "/seminar-kit-ekonomis-untuk-event-nasional",
+      "permanent": true
+    },
+    {
+      "source": "/promo-seminar-kit-ekonomis-untuk-event-nasional.html",
+      "destination": "/seminar-kit-ekonomis-untuk-event-nasional",
+      "permanent": true
+    },
+    {
+      "source": "/promo-corporate-gift-bundling-akhir-kuartal",
+      "destination": "/corporate-gift-bundling-akhir-kuartal",
+      "permanent": true
+    },
+    {
+      "source": "/promo-corporate-gift-bundling-akhir-kuartal.html",
+      "destination": "/corporate-gift-bundling-akhir-kuartal",
+      "permanent": true
+    },
+    {
+      "source": "/promo-merchandise-korporat",
+      "destination": "/merchandise-korporat",
+      "permanent": true
+    },
+    {
+      "source": "/promo-merchandise-korporat.html",
+      "destination": "/merchandise-korporat",
+      "permanent": true
+    },
+    {
+      "source": "/promo-onboarding-kit-hemat-q2-2026",
+      "destination": "/onboarding-kit-hemat-q2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/promo-onboarding-kit-hemat-q2-2026.html",
+      "destination": "/onboarding-kit-hemat-q2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/promo-tumbler-custom",
+      "destination": "/tumbler-custom",
+      "permanent": true
+    },
+    {
+      "source": "/promo-tumbler-custom.html",
+      "destination": "/tumbler-custom",
+      "permanent": true
+    },
+    {
       "source": "/index.html",
       "destination": "/",
       "permanent": true
