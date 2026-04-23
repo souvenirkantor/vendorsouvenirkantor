@@ -1,0 +1,52 @@
+.galeri-page #cta-galeri .cta-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.galeri-page #cta-galeri .cta-actions .btn {
+  min-height: 46px;
+  border-radius: 999px;
+  padding: 0.7rem 1.2rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+
+.galeri-page #cta-galeri .cta-actions .cta-btn-primary {
+  background: #ffffff;
+  color: #7a1020;
+  border: 1px solid #ffffff;
+}
+
+.galeri-page #cta-galeri .cta-actions .cta-btn-primary:hover {
+  background: #f8e9ed;
+  color: #7a1020;
+  border-color: #f8e9ed;
+}
+
+.galeri-page #cta-galeri .cta-actions .cta-btn-secondary {
+  background: transparent;
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.85);
+}
+
+.galeri-page #cta-galeri .cta-actions .cta-btn-secondary:hover {
+  background: #ffffff;
+  color: #7a1020;
+  border-color: #ffffff;
+}
+
+@media (max-width: 575px) {
+  .galeri-page #cta-galeri .cta-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .galeri-page #cta-galeri .cta-actions .btn {
+    width: 100%;
+  }
+}
