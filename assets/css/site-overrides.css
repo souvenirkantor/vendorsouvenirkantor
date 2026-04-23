@@ -1,6 +1,67 @@
 /* Shared site overrides for custom behavior and visual consistency.
    Keep new global custom rules here instead of appending into main.css. */
 
+.footer {
+  padding: 24px 0 30px;
+}
+
+.footer .footer-grid {
+  padding-top: 8px;
+}
+
+.footer .footer-grid h3,
+.footer .footer-grid h4 {
+  margin-bottom: 10px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.footer .footer-grid h3 {
+  font-size: 1.1rem;
+}
+
+.footer .footer-grid h4 {
+  font-size: 1rem;
+}
+
+.footer .footer-grid p {
+  margin-bottom: 0;
+  color: #f1f5f9;
+  line-height: 1.7;
+}
+
+.footer .footer-grid ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer .footer-grid li {
+  color: #f1f5f9;
+  margin-bottom: 6px;
+  line-height: 1.65;
+}
+
+.footer .footer-grid a {
+  color: #f1f5f9;
+  text-decoration: none;
+}
+
+.footer .footer-grid a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.footer .copyright {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255, 255, 255, 0.22);
+}
+
+.footer .copyright p {
+  color: #ffffff;
+}
+
 .floating-wa-global {
   position: fixed;
   right: 15px;
