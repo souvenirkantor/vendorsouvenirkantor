@@ -8,9 +8,32 @@ Primary Intent: Corporate souvenir procurement, merchandise kantor custom, corpo
 ## Key Pages
 - Home: https://vendorsouvenirkantor.web.id/
 - Products: https://vendorsouvenirkantor.web.id/produk.html
+- Paket Onboarding Kit Basic: https://vendorsouvenirkantor.web.id/paket-onboarding-kit-basic.html
+- Paket Seminar Kit Pro: https://vendorsouvenirkantor.web.id/paket-seminar-kit-pro.html
+- Paket Corporate Gift Premium: https://vendorsouvenirkantor.web.id/paket-corporate-gift-premium.html
+- Paket Hampers Korporat: https://vendorsouvenirkantor.web.id/paket-hampers-korporat.html
+- Paket Merchandise Event: https://vendorsouvenirkantor.web.id/paket-merchandise-event.html
+- Paket Seminar Kit Eco: https://vendorsouvenirkantor.web.id/paket-seminar-kit-eco.html
+- Paket Corporate Gift Signature: https://vendorsouvenirkantor.web.id/paket-corporate-gift-signature.html
+- Paket Hampers Festive Branding: https://vendorsouvenirkantor.web.id/paket-hampers-festive-branding.html
 - Services: https://vendorsouvenirkantor.web.id/service.html
+- Service Detail Hub: https://vendorsouvenirkantor.web.id/service-details.html
+- Layanan Konsultasi Produk: https://vendorsouvenirkantor.web.id/layanan-konsultasi-produk-souvenir-kantor.html
+- Layanan Desain Branding: https://vendorsouvenirkantor.web.id/layanan-desain-branding-souvenir.html
+- Layanan Produksi Massal: https://vendorsouvenirkantor.web.id/layanan-produksi-massal-souvenir.html
+- Layanan Packing dan Bundling: https://vendorsouvenirkantor.web.id/layanan-packing-bundling-souvenir.html
+- Layanan Distribusi Nasional: https://vendorsouvenirkantor.web.id/layanan-distribusi-nasional-souvenir.html
+- Layanan After Sales Support: https://vendorsouvenirkantor.web.id/layanan-after-sales-support-souvenir.html
+- Portofolio: https://vendorsouvenirkantor.web.id/portfolio-details.html
+- Portofolio Onboarding Kit 1.200 Paket: https://vendorsouvenirkantor.web.id/portofolio-onboarding-kit-1200-paket.html
+- Portofolio Seminar Kit Nasional: https://vendorsouvenirkantor.web.id/portofolio-seminar-kit-nasional.html
+- Portofolio Corporate Gift Klien VIP: https://vendorsouvenirkantor.web.id/portofolio-corporate-gift-klien-vip.html
+- Portofolio Hampers Akhir Tahun: https://vendorsouvenirkantor.web.id/portofolio-hampers-akhir-tahun.html
+- Portofolio Merchandise Gathering: https://vendorsouvenirkantor.web.id/portofolio-merchandise-gathering.html
+- Portofolio Paket Welcome Employee: https://vendorsouvenirkantor.web.id/portofolio-paket-welcome-employee.html
+- Galeri: https://vendorsouvenirkantor.web.id/galeri.html
 - Blog: https://vendorsouvenirkantor.web.id/blog.html
-- Main Article: https://vendorsouvenirkantor.web.id/artikel.html
+- Main Article: https://vendorsouvenirkantor.web.id/panduan-memilih-vendor-souvenir-kantor-untuk-perusahaan.html
 - FAQ: https://vendorsouvenirkantor.web.id/faq-seo.html
 - Service Areas: https://vendorsouvenirkantor.web.id/lokasi-layanan.html
 - Contact: https://vendorsouvenirkantor.web.id/starter-page.html
