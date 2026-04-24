@@ -98,6 +98,10 @@ body.artikel-page {
   line-height: 1.84;
 }
 
+.artikel-page .post-details .content {
+  overflow-wrap: anywhere;
+}
+
 .article-content figure {
   margin: 1.2rem 0 1.8rem;
 }
@@ -222,6 +226,23 @@ body.artikel-page {
   margin-bottom: 0;
   font-style: italic;
   font-weight: 500;
+}
+
+.artikel-page .article-content .table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1rem 0;
+}
+
+.artikel-page .article-content .table-responsive table {
+  margin-bottom: 0;
+  min-width: 560px;
+}
+
+.artikel-page .article-content table th,
+.artikel-page .article-content table td {
+  vertical-align: top;
 }
 
 .promo-image-wrap {
@@ -373,5 +394,9 @@ body.artikel-page {
 
   .related-grid .card img {
     aspect-ratio: 10 / 7;
+  }
+
+  .artikel-page .article-content .table-responsive table {
+    min-width: 520px;
   }
 }

@@ -35,7 +35,36 @@
       if (page === 'about.html') return 'about.html';
       if (page === 'produk.html' || page.startsWith('paket-')) return 'produk.html';
       if (page === 'service.html' || page === 'service-details.html' || page.startsWith('layanan-')) return 'service.html';
-      if (page === 'blog.html' || page === 'artikel.html' || page.startsWith('panduan-') || page.startsWith('strategi-') || page.startsWith('template-') || page.startsWith('cara-')) return 'blog.html';
+      if (
+        page === 'blog.html' ||
+        page === 'artikel.html' ||
+        page.startsWith('panduan-') ||
+        page.startsWith('strategi-') ||
+        page.startsWith('template-') ||
+        page.startsWith('cara-') ||
+        page.startsWith('perbedaan-') ||
+        page.startsWith('checklist-') ||
+        page.startsWith('onboarding-') ||
+        page.startsWith('perbandingan-') ||
+        page.startsWith('sablon-') ||
+        page.startsWith('laser-') ||
+        page.startsWith('bordir-') ||
+        page.startsWith('uv-print-') ||
+        page.startsWith('vendor-souvenir-kantor-') ||
+        page === 'hampers-korporat-surabaya.html' ||
+        page === 'seminar-kit-malang.html' ||
+        page === 'corporate-gift-kediri.html' ||
+        page === 'tumbler-custom-jakarta.html' ||
+        page === 'merchandise-custom-bali.html' ||
+        page === 'tumbler-custom-souvenir-kantor-panduan-lengkap.html' ||
+        page === 'souvenir-seminar-kampus-panduan-lengkap.html' ||
+        page === 'corporate-gift-seminar-bisnis-panduan.html' ||
+        page === 'souvenir-seminar-pendidikan-sekolah-lembaga.html' ||
+        page === 'merchandise-wisuda-kampus-panduan.html' ||
+        page === 'seminar-kit-lengkap-panduan-isi-paket-harga.html' ||
+        page === 'souvenir-narasumber-seminar-panduan.html' ||
+        page === 'onboarding-kit-karyawan-baru-panduan.html'
+      ) return 'blog.html';
       if (page === 'portfolio-details.html' || page.startsWith('portofolio-')) return 'portfolio-details.html';
       if (page === 'lokasi-layanan.html') return 'lokasi-layanan.html';
       if (page === 'galeri.html') return 'galeri.html';
@@ -138,6 +167,26 @@
   }
 
   ensureFloatingWaButton();
+
+  /**
+   * Wrap tables on detail pages so mobile users can scroll horizontally
+   * instead of losing content due to viewport clipping.
+   */
+  function initResponsiveDetailTables() {
+    const tables = document.querySelectorAll('.article-content table, .product-content table, .service-content table');
+    if (!tables.length) return;
+
+    tables.forEach(function(table) {
+      if (table.closest('.table-responsive')) return;
+
+      const wrapper = document.createElement('div');
+      wrapper.className = 'table-responsive';
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    });
+  }
+
+  initResponsiveDetailTables();
 
   /**
    * Auto TOC for detail pages (article/product/service).
