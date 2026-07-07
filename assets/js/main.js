@@ -63,7 +63,8 @@
         page === 'merchandise-wisuda-kampus-panduan.html' ||
         page === 'seminar-kit-lengkap-panduan-isi-paket-harga.html' ||
         page === 'souvenir-narasumber-seminar-panduan.html' ||
-        page === 'onboarding-kit-karyawan-baru-panduan.html'
+        page === 'onboarding-kit-karyawan-baru-panduan.html' ||
+        page === 'souvenir-kantor-panduan-lengkap.html'
       ) return 'blog.html';
       if (page === 'portfolio-details.html' || page.startsWith('portofolio-')) return 'portfolio-details.html';
       if (page === 'lokasi-layanan.html') return 'lokasi-layanan.html';
