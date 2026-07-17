@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vendorsouvenirkantor.web.id/sitemap.xml
-
+Sitemap: https://brand-gift.vercel.app/sitemap.xml
