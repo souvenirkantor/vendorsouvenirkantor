@@ -115,7 +115,7 @@ Kampus
 **Versi Bootstrap:Rekomendasikan
 **Hosting & Deployment:Lainnya: Github Pages to Vercel
 **Batasan Teknis Penting:** [ISI]  
-**Integrasi Penting:Whatsapp 0895639068080
+**Integrasi Penting:Whatsapp 0812-5222-5479
 tambahkan menu top melayang di semua halaman
 tambahkan whatsapp melayang di semua halaman
 halaman artikel harus SEO Friendly, Optimasi AEO, GEO dan Ai Overview
