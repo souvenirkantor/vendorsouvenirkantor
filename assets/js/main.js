@@ -159,7 +159,7 @@
 
     const waBtn = document.createElement('a');
     waBtn.className = 'floating-wa-global d-flex align-items-center justify-content-center';
-    waBtn.href = 'https://wa.me/62895639068080?text=Halo%20Vendor%20Souvenir%20Kantor%2C%20saya%20ingin%20konsultasi%20souvenir%20kantor.';
+    waBtn.href = 'https://wa.me/6281252225479?text=Halo%20Vendor%20Souvenir%20Kantor%2C%20saya%20ingin%20konsultasi%20souvenir%20kantor.';
     waBtn.target = '_blank';
     waBtn.rel = 'noopener';
     waBtn.setAttribute('aria-label', 'Chat WhatsApp');
